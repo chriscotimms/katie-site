@@ -19,3 +19,22 @@ main {
     color:black;
     padding:10px;
 }
+
+.menu-item {
+    background-color: aquamarine;
+}
+
+h2 {
+    font-size: 1.3em;
+}
+
+.hide {
+    display:none;
+} 
+
+.open {
+    display:block;
+}
+
+
+
